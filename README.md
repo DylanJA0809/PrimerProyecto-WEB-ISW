@@ -9,6 +9,6 @@ Se planea una segunda versión del proyecto donde se implemente funcionalidad to
 - HTML5  
 - CSS3  
 
-## Proyecto de origen académico en UTN.
+### Proyecto de origen académico en UTN.
 
 
